@@ -1,0 +1,4 @@
+?<?php?
+Session_start();
+Echo “hello”;
+?>?
